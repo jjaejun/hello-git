@@ -17,4 +17,8 @@ public class Main {
 		new Eagle().fly();
 		new Snake().crawl();
 	}
+	
+	public void test() {
+		System.out.println("Main#test");
+	}
 }
