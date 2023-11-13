@@ -6,6 +6,6 @@ public class Main {
 		System.out.println("Hello World");
 		System.out.println("Hello Git");
 		
-		new Foo().test();
+//		new Foo().test();
 	}
 }
