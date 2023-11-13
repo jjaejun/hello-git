@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("HELLO GIT");
 		
 		System.out.println("동물기능 시작~");
-//		new Foo().test();
+		System.out.println("Animal Go~");
 		new Dog().bark();
 		new Cat().jump();
 		new Eagle().fly();
